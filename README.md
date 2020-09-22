@@ -71,6 +71,7 @@ In this sprint, you'll be practicing writing recursive functions, building up to
 ## Exercises
 
 More detailed instructions and examples for each exercise can be found in the individual `.js` files in the `src` folder.
+https://repl.it/@VivienneZheng/IntrepidAncientMicroprogramming#index.js
 
 ### 1: sumArray
 
